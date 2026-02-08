@@ -6,9 +6,9 @@
       "lt"
     ],
     "total_questions": 120,
-    "updated": "2026-01-02T10:10:43.118Z",
+    "updated": "2026-02-08T11:14:43.498Z",
     "version": "4.2-auto-save",
-    "questions_with_images": 37,
+    "questions_with_images": 38,
     "auto_save": true
   },
   "interface_translations": {
@@ -195,9 +195,9 @@
       },
       "lt": {
         "assertion": "Pacientams, sergantiems minimalių pokyčių liga, histologiškai glomerulai paprastai būna nepakitę, nepaisant nefrozinio sindromo.",
-        "reason": "Patologinis pažeidimas esant minimalių pakitimų ligai yra difuzinis podocitų mažųjų kojyčių susiliejimas, matomas tik elektroniniu mikroskopu.",
+        "reason": "Patologinis pokytis esant minimalių pakitimų ligai yra difuzinis podocitų mažųjų kojyčių susiliejimas, matomas tik elektroniniu mikroskopu.",
         "answer": "A",
-        "explanation": "Abu teiginiai yra teisingi.MCD rodo normalius glomerulus LM, nes pirminis pažeidimas (pėdos proceso išnykimas) yra ultrastruktūrinis ir norint jį vizualizuoti, reikia EM.Šis pėdos proceso išsausėjimas pažeidžia glomerulų filtracijos barjerą, sukeldamas didžiulę proteinuriją ir nefrozinį sindromą."
+        "explanation": "Abu teiginiai yra teisingi. Histologiškai glomerulai būna nepakitę, nes pirminis pažeidimas (podocitų mažųjų kojyčių susiliejimas ) yra ultrastruktūrinis ir norint jį vizualizuoti, reikia EM. Podocitų pažeidimas sutrikdo glomerulų filtracijos barjerą, sukeldamas žymią proteinuriją ir nefrozinį sindromą."
       },
       "image": "question_images/question_1.jpg"
     },
@@ -235,7 +235,8 @@
         "reason": "Pirminis FSGS rodo difuzinį pėdos proceso išbėrimą, panašų į minimalių pokyčių ligą, o antrinis FSGS paprastai rodo tik židininį pėdos proceso išbėrimą, esantį virš sklerozės sričių.",
         "answer": "A",
         "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję.Pėdos proceso išnykimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis išblukimas (visi podocitai) rodo pirminį cirkuliuojančio faktoriaus sukeltą sužalojimą, o židinio išblukimas (tik skleroziniuose segmentuose) rodo adaptyvų / mechaninį antrinio FSGS pažeidimą."
-      }
+      },
+      "image": "question_images/question_3.png"
     },
     {
       "id": 4,
