@@ -6,7 +6,7 @@
       "lt"
     ],
     "total_questions": 120,
-    "created": "2026-02-08T06:09:03.770Z",
+    "created": "2026-02-08T11:45:48.617Z",
     "version": "3.6-persistent-settings",
     "translation_method": "Google Translate with medical terminology preservation + manual editing"
   },
@@ -184,22 +184,22 @@
     "1": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "2": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Test1"
     },
     "3": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "4": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "5": {
       "active": false,
@@ -207,9 +207,9 @@
       "modality": "None"
     },
     "6": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "7": {
       "active": false,
@@ -227,19 +227,19 @@
       "modality": "None"
     },
     "10": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "11": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "12": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "13": {
       "active": false,
@@ -252,24 +252,24 @@
       "modality": "None"
     },
     "15": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "16": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "17": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "18": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "19": {
       "active": false,
@@ -287,9 +287,9 @@
       "modality": "None"
     },
     "22": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "23": {
       "active": false,
@@ -297,9 +297,9 @@
       "modality": "None"
     },
     "24": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "25": {
       "active": false,
@@ -307,9 +307,9 @@
       "modality": "None"
     },
     "26": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "27": {
       "active": false,
@@ -327,14 +327,14 @@
       "modality": "None"
     },
     "30": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "31": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "32": {
       "active": false,
@@ -347,9 +347,9 @@
       "modality": "None"
     },
     "34": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "35": {
       "active": false,
@@ -357,9 +357,9 @@
       "modality": "None"
     },
     "36": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "37": {
       "active": false,
@@ -377,9 +377,9 @@
       "modality": "None"
     },
     "40": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "41": {
       "active": false,
@@ -392,9 +392,9 @@
       "modality": "None"
     },
     "43": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "44": {
       "active": false,
@@ -412,9 +412,9 @@
       "modality": "None"
     },
     "47": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "48": {
       "active": false,
@@ -432,9 +432,9 @@
       "modality": "None"
     },
     "51": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "52": {
       "active": false,
@@ -442,9 +442,9 @@
       "modality": "None"
     },
     "53": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "54": {
       "active": false,
@@ -522,9 +522,9 @@
       "modality": "None"
     },
     "69": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "70": {
       "active": false,
@@ -552,9 +552,9 @@
       "modality": "None"
     },
     "75": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "76": {
       "active": false,
@@ -577,19 +577,19 @@
       "modality": "None"
     },
     "80": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "81": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "82": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "83": {
       "active": false,
@@ -597,9 +597,9 @@
       "modality": "None"
     },
     "84": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "85": {
       "active": false,
@@ -622,9 +622,9 @@
       "modality": "None"
     },
     "89": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "90": {
       "active": false,
@@ -689,7 +689,7 @@
     "102": {
       "active": false,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "103": {
       "active": false,
@@ -707,14 +707,14 @@
       "modality": "None"
     },
     "106": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "107": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "108": {
       "active": false,
@@ -762,9 +762,9 @@
       "modality": "None"
     },
     "117": {
-      "active": false,
+      "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "118": {
       "active": false,
@@ -835,8 +835,9 @@
         "assertion": "Elektroninė mikroskopija, rodanti difuzinį pėdos proceso išnykimą pacientui, turinčiam FSGS, rodo pirminį, o ne antrinį FSGS.",
         "reason": "Pirminis FSGS rodo difuzinį pėdos proceso išbėrimą, panašų į minimalių pokyčių ligą, o antrinis FSGS paprastai rodo tik židininį pėdos proceso išbėrimą, esantį virš sklerozės sričių.",
         "answer": "A",
-        "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję.Pėdos proceso išnykimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis išblukimas (visi podocitai) rodo pirminį cirkuliuojančio faktoriaus sukeltą sužalojimą, o židinio išblukimas (tik skleroziniuose segmentuose) rodo adaptyvų / mechaninį antrinio FSGS pažeidimą."
-      }
+        "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję. Potocitų proceso išnykimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis išblukimas (visi podocitai) rodo pirminį cirkuliuojančio faktoriaus sukeltą sužalojimą, o židinio išblukimas (tik skleroziniuose segmentuose) rodo adaptyvų / mechaninį antrinio FSGS pažeidimą."
+      },
+      "image": "question_images/question_3.png"
     },
     {
       "id": 4,

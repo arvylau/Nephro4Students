@@ -24,10 +24,12 @@ async function loadQuestions() {
             questionSettings = JSON.parse(settings);
         }
 
-        // Filter to only active questions
+        // Filter to only active questions with modality "Self"
         activeQuestions = allQuestions.filter(q => {
             const setting = questionSettings[q.id];
-            return !setting || setting.active !== false;
+            const isActive = !setting || setting.active !== false;
+            const isSelf = setting && setting.modality === 'Self';
+            return isActive && isSelf;
         });
 
         // Sort by priority (high priority first)
@@ -48,8 +50,8 @@ async function loadQuestions() {
         if (activeQuestions.length === 0) {
             document.getElementById('questions-container').innerHTML =
                 '<div style="background:white;padding:50px;border-radius:15px;text-align:center;color:#666;">' +
-                '<p style="font-size:20px;">No questions are currently active.</p>' +
-                '<p style="margin-top:10px;">Please contact your instructor.</p>' +
+                '<p style="font-size:20px;">No self-study questions available.</p>' +
+                '<p style="margin-top:10px;">Please contact your instructor to enable questions for self-study.</p>' +
                 '</div>';
             return;
         }
