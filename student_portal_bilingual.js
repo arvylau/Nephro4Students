@@ -36,6 +36,19 @@ async function loadQuestions() {
             return isActive && isSelf;
         });
 
+        // Debug: show filter results
+        console.log('Total questions:', allQuestions.length);
+        console.log('Question settings count:', Object.keys(questionSettings).length);
+        console.log('Active+Self questions:', activeQuestions.length);
+        if (activeQuestions.length === 0 && allQuestions.length > 0) {
+            // Check first 3 questions for debugging
+            for (let i = 0; i < Math.min(3, allQuestions.length); i++) {
+                const q = allQuestions[i];
+                const s = questionSettings[String(q.id)];
+                console.log(`Q${q.id}: setting=`, s);
+            }
+        }
+
         // Sort by priority (high priority first)
         activeQuestions.sort((a, b) => {
             const settingA = questionSettings[String(a.id)];
@@ -56,6 +69,9 @@ async function loadQuestions() {
                 '<div style="background:white;padding:50px;border-radius:15px;text-align:center;color:#666;">' +
                 '<p style="font-size:20px;">No self-study questions available.</p>' +
                 '<p style="margin-top:10px;">Please contact your instructor to enable questions for self-study.</p>' +
+                '<p style="margin-top:20px;font-size:12px;color:#999;">Debug: Total=' + allQuestions.length +
+                ', Settings=' + Object.keys(questionSettings).length +
+                ', Active+Self=' + activeQuestions.length + '</p>' +
                 '</div>';
             return;
         }
