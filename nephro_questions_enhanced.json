@@ -6,7 +6,7 @@
       "lt"
     ],
     "total_questions": 120,
-    "created": "2026-02-08T14:23:43.942Z",
+    "created": "2026-02-08T15:20:18.027Z",
     "version": "3.6-persistent-settings",
     "translation_method": "Google Translate with medical terminology preservation + manual editing"
   },
@@ -189,7 +189,7 @@
     "2": {
       "active": true,
       "priority": "none",
-      "modality": "Test2"
+      "modality": "Self"
     },
     "3": {
       "active": true,
@@ -199,70 +199,70 @@
     "4": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "5": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "6": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "7": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "8": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "9": {
-      "active": true,
+      "active": false,
       "priority": "high",
       "modality": "None"
     },
     "10": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "11": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "12": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "13": {
-      "active": true,
+      "active": false,
       "priority": "low",
       "modality": "Test2"
     },
     "14": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "15": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "16": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "17": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
@@ -272,57 +272,57 @@
       "modality": "None"
     },
     "19": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "20": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "21": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "22": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "23": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "24": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "25": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "26": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "27": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "28": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "29": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
@@ -332,17 +332,17 @@
       "modality": "None"
     },
     "31": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "32": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "33": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
@@ -352,27 +352,27 @@
       "modality": "Self"
     },
     "35": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "36": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "37": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "38": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "39": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
@@ -382,307 +382,307 @@
       "modality": "None"
     },
     "41": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "42": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "43": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "44": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "45": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "46": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "47": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "48": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "49": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "50": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "51": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "52": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "53": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "54": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "55": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "56": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "57": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "58": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "59": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "60": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "61": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "62": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "63": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "64": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "65": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "66": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "67": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "68": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "69": {
-      "active": true,
+      "active": false,
       "priority": "high",
       "modality": "None"
     },
     "70": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "71": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "72": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "73": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "74": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "75": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "76": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "77": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "78": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "79": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "80": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "81": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "82": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "83": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "84": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "85": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "86": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "87": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "88": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "89": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "90": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "91": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "92": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "93": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "94": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "95": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "96": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "97": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "98": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "99": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "100": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "101": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
@@ -692,92 +692,92 @@
       "modality": "None"
     },
     "103": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "104": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "105": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "106": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "107": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "108": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "109": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "110": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "111": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "112": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "113": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "114": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "115": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "116": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "117": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "118": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "119": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     },
     "120": {
-      "active": true,
+      "active": false,
       "priority": "none",
       "modality": "None"
     }
@@ -851,10 +851,10 @@
         "explanation": "Both true and causally related. In MGN, autoantibodies (anti-PLA2R in most primary cases) bind to podocyte antigens, forming immune complexes in-situ on the subepithelial surface. These IgG-containing deposits appear as granular deposits along the capillary wall on IF, which is pathognomonic for MGN."
       },
       "lt": {
-        "assertion": "Membraninė glomerulopatija rodo granuliuotą kapiliarų sienelių dažymą IgG imunofluorescencinės mikroskopijos metu.",
+        "assertion": "Membraninei glomerulopatijai būdingas grūdėtas IgG švytėjimas kapiliarų sienelėse imunofluorescencinės mikroskopijos mikroskopijos metu.",
         "reason": "Patologinis procesas apima imuninių kompleksų susidarymą in situ glomerulų bazinės membranos subepitelinėje pusėje.",
         "answer": "A",
-        "explanation": "Ir tiesa, ir priežastinis ryšys.Sergant MGN, autoantikūnai (anti-PLA2R daugeliu pirminių atvejų) jungiasi prie podocitų antigenų, formuodami imuninius kompleksus in situ ant subepitelinio paviršiaus.Šios IgG turinčios nuosėdos atrodo kaip granuliuotos nuosėdos išilgai kapiliaro sienelės IF, o tai yra patognomoniška MGN."
+        "explanation": "Ir tiesa, ir priežastinis ryšys. Sergant MN, autoantikūnai (anti-PLA2R daugeliu pirminių atvejų) jungiasi prie podocitų antigenų, formuodami imuninius kompleksus in situ ant subepitelinio paviršiaus. "
       }
     },
     {
@@ -890,7 +890,7 @@
         "assertion": "Vaikai, sergantys minimalių pokyčių liga, paprastai pasiekia remisiją per 2–8 savaites nuo gydymo kortikosteroidais.",
         "reason": "Minimalių pokyčių liga labai reaguoja į kortikosteroidus, daugiau nei 90% vaikų pasiekia visišką remisiją.",
         "answer": "A",
-        "explanation": "Ir tiesa, ir susijusi.MCD pasižymi puikiu atsaku į steroidus (90–95 % vaikams), nes pagrindinis mechanizmas greičiausiai susijęs su T-ląstelių disfunkcija, dėl kurios susidaro cirkuliuojantys pralaidumo faktoriai, kuriuos slopina kortikosteroidai.Šis didelis atsako dažnis ir greita remisija yra diagnostinės MCD savybės."
+        "explanation": "Ir tiesa, ir susijusi. MPL pasižymi puikiu atsaku į steroidus (90–95 % vaikams), nes pagrindinis mechanizmas greičiausiai susijęs su T-ląstelių disfunkcija, dėl kurios susidaro cirkuliuojantys pralaidumo faktoriai, kuriuos slopina kortikosteroidai. Šis didelis atsako dažnis ir greita remisija yra diagnostinės MCD savybės."
       }
     },
     {
@@ -980,7 +980,7 @@
         "assertion": "Minimalių pokyčių liga paprastai rodo neigiamą imunofluorescencinę mikroskopiją.",
         "reason": "Minimalių pokyčių ligą sukelia IgA imuninių kompleksų nusėdimas mezangiume.",
         "answer": "C",
-        "explanation": "Teiginys yra teisingas – MCD būdingas neigiamas arba nespecifinis pėdsakas IF (jokių imuninių nuosėdų).Tačiau priežastis yra klaidinga.MCD NĖRA sukeltas IgA mezangialinių nuosėdų (tai būtų IgA nefropatija).MCD greičiausiai susijęs su T-ląstelių disfunkcija ir cirkuliuojančiais pralaidumo veiksniais, o ne su imuninio komplekso nusėdimu."
+        "explanation": "Teiginys yra teisingas – MPL būdingas neigiamas arba nespecifinis pėdsakas IF (be imuninių nuosėdų).T ačiau priežastis yra klaidinga. MPL NĖRA sukeltas IgA nuosėdų mezangiume (tai būtų IgA nefropatija). MPL greičiausiai susijusi su T-ląstelių disfunkcija ir cirkuliuojančiais pralaidumo veiksniais, o ne su imuninio komplekso nusėdimu."
       }
     },
     {
@@ -995,10 +995,10 @@
         "explanation": "The assertion is true - secondary FSGS should NOT receive steroids/immunosuppression; treatment focuses on the underlying cause. However, the reason is false. Secondary FSGS is NOT caused by anti-podocyte antibodies; it results from hemodynamic/adaptive mechanisms (hyperfiltration, reduced nephron mass). MGN involves antibodies, but secondary FSGS does not."
       },
       "lt": {
-        "assertion": "Antrinis FSGS neturėtų būti gydomas imunosupresiniais vaistais, pvz., kortikosteroidais.",
+        "assertion": "Antrinė FSGS neturėtų būti gydoma kortikosteroidais.",
         "reason": "Antrinį FSGS sukelia antipodocitų antikūnai, panašūs į membraninę glomerulopatiją.",
         "answer": "C",
-        "explanation": "Teiginys yra teisingas – antrinis FSGS NETURI gauti steroidų / imunosupresijos;gydymas sutelkiamas į pagrindinę priežastį.Tačiau priežastis yra klaidinga.Antrinis FSGS nėra sukeltas anti-podocitų antikūnų;tai atsiranda dėl hemodinaminių / adaptacinių mechanizmų (hiperfiltracijos, sumažėjusios nefrono masės).MGN apima antikūnus, bet antrinis FSGS neturi."
+        "explanation": "Teiginys yra teisingas – steroidai kelia intraglomerulinį spaudimą ir gali pagreitinti ligos progresavimą. Tačiau priežastis yra klaidinga. Antrinė FSGS nėra sukelta anti-podocitų antikūnų; ji atsiranda dėl hemodinaminių / adaptacinių mechanizmų (hiperfiltracijos, sumažėjusios nefrono masės)."
       }
     },
     {
@@ -1103,7 +1103,7 @@
         "explanation": "Both true and related. The subepithelial humps on EM are pathognomonic for APIGN and represent immune complexes that form after streptococcal infection. These humps resolve over time as the disease improves."
       },
       "lt": {
-        "assertion": "Elektroninė mikroskopija sergant ūminiu poinfekciniu glomerulonefritu rodo būdingas subepitelines „kuproto formos“ nuosėdas.",
+        "assertion": "Sergant ūminiu poinfekciniu glomerulonefritu EM rodo būdingus subepitelinius „kupros formos“ imuninius kompleksus.",
         "reason": "Šios nuosėdos yra imuniniai kompleksai, susidarę poinfekcinio imuninio atsako metu ir yra nusėdę glomerulų bazinės membranos subepitelinėje pusėje.",
         "answer": "A",
         "explanation": "Ir tiesa, ir susijusi.Subepiteliniai kauburėliai EM yra patognomoniški APIGN ir yra imuniniai kompleksai, susidarantys po streptokokinės infekcijos.Šios kupros išnyksta laikui bėgant, kai liga pagerėja."
@@ -1141,9 +1141,9 @@
       },
       "lt": {
         "assertion": "Vaikai, sergantys ūminiu poinfekciniu glomerulonefritu, turi puikią prognozę, daugiau nei 95% atvejų visiškai pasveiksta.",
-        "reason": "Puikią prognozę lėmė didelis vaikų atsako į gydymą kortikosteroidais dažnis.",
+        "reason": "Puikią prognozę lėmia didelis ligos atsako į gydymą kortikosteroidais dažnis.",
         "answer": "C",
-        "explanation": "Teiginys yra tiesa – vaikai, turintys APIGN, visiškai pasveiksta >95%.Tačiau priežastis yra klaidinga.APIGN gydomas tik palaikomuoju gydymu, NE kortikosteroidais ar imunosupresija.Puikią prognozę lemia savaiminis ligos pobūdis."
+        "explanation": "Teiginys yra tiesa – vaikai, turintys APIGN, visiškai pasveiksta >95%. Tačiau priežastis yra klaidinga, liga gydoma tik palaikomuoju gydymu, NE kortikosteroidais ar imunosupresija. Puikią prognozę lemia epizodinis ligos pobūdis."
       }
     },
     {
@@ -1320,10 +1320,10 @@
         "explanation": "Both true and related. The tram-track or double contour appearance (best seen on silver stain) is pathognomonic for MPGN and results from mesangial cells migrating into the subendothelial space, splitting the GBM."
       },
       "lt": {
-        "assertion": "Membranoproliferacinis glomerulų pažeidimas šviesos mikroskopu pasižymi glomerulų bazinės membranos „dvigubo kontūro“ arba „tramvajaus bėgio“ išvaizda.",
+        "assertion": "Membranoproliferacinis glomerulų pažeidimas pasižymi glomerulų bazinės membranos „dvigubo kontūro“ arba „tramvajaus bėgio“ išvaizda.",
         "reason": "Dvigubo kontūro išvaizda atsiranda dėl mezangialinių ląstelių įsiterpimo tarp endotelio ir bazinės membranos, sukuriant naują į bazinę membraną panašios medžiagos sluoksnį.",
         "answer": "A",
-        "explanation": "Ir tiesa, ir susijusi.Tramvajaus takelio arba dvigubo kontūro išvaizda (geriausiai matoma ant sidabrinės dėmės) yra patognomoniška MPGN ir atsiranda dėl mezangialinių ląstelių migracijos į subendotelinę erdvę, padalydamos GBM."
+        "explanation": "Ir tiesa, ir susijusi. Tramvajaus bėgių arba dvigubo kontūro išvaizda yra patognomoniška šiam pažeidimo tipui ir atsiranda dėl mezangialinių ląstelių migracijos į subendotelinę erdvę bei de novo GBM sintezės."
       }
     },
     {
@@ -1392,10 +1392,10 @@
         "explanation": "Both true and related. Mesangial IgA dominance on IF is pathognomonic for IgA nephropathy. The pathophysiology involves abnormal O-glycosylation of IgA1, leading to galactose-deficient IgA1 that forms immune complexes and deposits in the mesangium."
       },
       "lt": {
-        "assertion": "IgA nefropatija pasižymi dominuojančiu arba kodominuojančiu mezangialiniu IgA nusėdimu imunofluorescencinės mikroskopijos metu.",
-        "reason": "Mezangialinės IgA nuosėdos sergant IgA nefropatija atsiranda dėl galaktozės stokojančių IgA1 imuninių kompleksų nusėdimo.",
+        "assertion": "IgA nefropatija pasižymi dominuojančiu arba kodominuojančiu IgA švytėjimu mezangiume imunofluorescencinės mikroskopijos metu.",
+        "reason": "IgA nuosėdos sergant IgA nefropatija atsiranda dėl galaktozės stokojančių IgA1 imuninių kompleksų formavimosi.",
         "answer": "A",
-        "explanation": "Ir tiesa, ir susijusi.Mezangialus IgA dominavimas IF yra patognominis IgA nefropatijai.Patofiziologija apima nenormalų IgA1 O-glikozilinimą, dėl kurio susidaro galaktozės trūkumas IgA1, kuris sudaro imuninius kompleksus ir nuosėdas mezangiume."
+        "explanation": "Ir tiesa, ir susiję. Mezangialus IgA dominavimas IF yra vienintelis diagnostinis IgA nefropatijos požymis. Patofiziologija apima nenormalų IgA1 O-glikozilinimą, dėl kurio susidaro galaktozės trūkumas IgA1, kuris sudaro imuninius kompleksus ir nuosėdas mezangiume."
       },
       "image": "question_images/question_34.png"
     },
@@ -1501,10 +1501,10 @@
         "explanation": "Both true, though the reason is partially incomplete. Males with X-linked Alport do progress to ESRD by 20-30 years because they have only one X chromosome (hemizygous). However, females (carriers) are NOT always asymptomatic - 15-30% develop ESRD, though usually later and milder. Still, the answer is A as the main concept is correct."
       },
       "lt": {
-        "assertion": "Su X susietu Alport sindromu sergantys vyrai paprastai progresuoja iki paskutinės stadijos inkstų ligos iki 20–30 metų amžiaus.",
-        "reason": "Su X susietas paveldėjimas reiškia, kad patinai turi vieną mutavusį COL4A5 geną X chromosomoje ir neturi normalios kopijos, o tai sukelia sunkią ligą, o nešiotojai paprastai yra besimptomiai.",
+        "assertion": "Su X susietu Alporto sindromu sergantys vyrai paprastai progresuoja iki paskutinės stadijos inkstų ligos iki 20–30 metų amžiaus.",
+        "reason": "Su X susietas paveldėjimas reiškia, kad vyrai turi vieną mutavusį COL4A5 geną X chromosomoje ir neturi normalios kopijos, o tai sukelia sunkią ligą, o nešiotojai paprastai yra besimptomiai.",
         "answer": "A",
-        "explanation": "Abu tiesa, nors priežastis iš dalies neišsami.Patinai su X susietu Alport progresuoja iki ESRD 20–30 metų, nes jie turi tik vieną X chromosomą (hemizigotinę).Tačiau patelės (nešiotojai) NE visada būna besimptomiai – 15–30 % išsivysto NSL, nors dažniausiai vėliau ir švelniau.Vis dėlto atsakymas yra A, nes pagrindinė sąvoka yra teisinga."
+        "explanation": "Abu tiesa, nors priežastis iš dalies neišsami. Vyrai su X susietu Alport progresuoja iki ESRD 20–30 metų, nes jie turi tik vieną X chromosomą (hemizigotinę). Tačiau moterys (nešiotojai) NE visada būna besimptomės – 15–30 % išsivysto IFN, nors dažniausiai vėliau. Vis dėlto atsakymas yra A, nes pagrindinė sąvoka yra teisinga."
       }
     },
     {
@@ -1555,10 +1555,10 @@
         "explanation": "Both true and related. Thin GBM disease (benign familial hematuria) is a benign condition. Patients have persistent microscopic hematuria from childhood but maintain normal renal function, no significant proteinuria, and no progression to CKD. This benign course distinguishes it from Alport syndrome."
       },
       "lt": {
-        "assertion": "Plona GBM liga turi puikią prognozę ir paprastai neprogresuoja į lėtinę inkstų ligą.",
-        "reason": "Plonoji GBM liga yra gerybinė šeimyninė būklė, kuriai būdinga izoliuota mikroskopinė hematurija be proteinurijos ar inkstų funkcijos sutrikimo.",
+        "assertion": "Plonų GBM liga turi puikią prognozę ir paprastai neprogresuoja į lėtinę inkstų ligą.",
+        "reason": "Plonų GBM liga yra gerybinė šeimyninė būklė, kuriai būdinga izoliuota mikroskopinė hematurija be proteinurijos ar inkstų funkcijos sutrikimo.",
         "answer": "A",
-        "explanation": "Ir tiesa, ir susijusi.Plonoji GBM liga (gerybinė šeiminė hematurija) yra gerybinė būklė.Pacientai turi nuolatinę mikroskopinę hematuriją nuo vaikystės, tačiau palaiko normalią inkstų funkciją, nėra reikšmingos proteinurijos ir neprogresuoja į ŠKL.Ši gerybinė eiga išskiria jį nuo Alport sindromo."
+        "explanation": "Ir tiesa, ir susijusi. Plonoji GBM liga (gerybinė šeiminė hematurija) yra gerybinė būklė. Pacientams būdinga nuolatinų mikroskopinė hematurija nuo vaikystės, nėra reikšmingos proteinurijos ir neprogresuoja IFN. Ši gerybinė eiga išskiria jį nuo klasikinio Alporto sindromo."
       }
     },
     {
@@ -2284,10 +2284,10 @@
         "explanation": "PLA2R antibodies are found in 70-80% of primary membranous nephropathy. Phospholipase A2 receptor is the major podocyte antigen in idiopathic MGN. Therefore, both the assertion and reason are true, and the reason correctly explains the assertion."
       },
       "lt": {
-        "assertion": "PLA2R antikūnai randami 70-80% pirminės membraninės nefropatijos",
-        "reason": "Fosfolipazė A2 receptorius yra pagrindinis podocitų antigenas idiopatinėje MGN",
+        "assertion": "PLA2R antikūnai randami 70-80% pirminės membraninės nefropatijos atvejų.",
+        "reason": "Fosfolipazės A2 receptorius yra pagrindinis podocitų antigenas idiopatinės MN atveju.",
         "answer": "A",
-        "explanation": "PLA2R antikūnai randami 70-80% pirminės membraninės nefropatijos. Fosfolipazė A2 receptorius yra pagrindinis podocitų antigenas idiopatinėje MGN. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
+        "explanation": "PLA2R antikūnai randami 70-80% pirminės membraninės nefropatijos. Fosfolipazės A2 receptorius yra pagrindinis podocitų antigenas idiopatinėje MGN. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
       "image": "question_images/question_82.jpeg"
     },
@@ -2324,10 +2324,10 @@
         "explanation": "Stage I membranous nephropathy shows electron-dense deposits without spikes. GBM spike formation occurs later as basement membrane grows around deposits. Therefore, both the assertion and reason are true, and the reason correctly explains the assertion."
       },
       "lt": {
-        "assertion": "I stadijos membraninė nefropatija rodo elektronų tankius nuosėdus be smailių",
-        "reason": "GBM smailių formavimas įvyksta vėliau, kai bazinė membrana auga aplink nuosėdus",
+        "assertion": "Membraninės nefropatijos I stadijai būdinga elektroniškai tankių nuosėdų (imuninių kompleksų) depozicija po podocitais.",
+        "reason": "Vėliau formuojasi GBM dygliai tarp imuninių kompleksų.",
         "answer": "A",
-        "explanation": "I stadijos membraninė nefropatija rodo elektronų tankius nuosėdus be smailių. GBM smailių formavimas įvyksta vėliau, kai bazinė membrana auga aplink nuosėdus. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
+        "explanation": "Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
       "image": "question_images/question_84.jpg"
     },
@@ -2424,10 +2424,10 @@
         "explanation": "Focal segmental glomerulosclerosis affects only some glomeruli. The sclerosis is both focal (some glomeruli) and segmental (part of tuft). Therefore, both the assertion and reason are true, and the reason correctly explains the assertion."
       },
       "lt": {
-        "assertion": "Fokusinė segmentinė glomerulosklerozė pažeidžia tik kai kuriuos glomerulius",
-        "reason": "Sklerozė yra ir fokusinė (kai kurie glomerulai) ir segmentinė (dalis kampo)",
+        "assertion": "Židininė segmentinė glomerulosklerozė pažeidžia tik kai kuriuos glomerulus.",
+        "reason": "Sklerozė yra ir židininė (kai kurie glomerulai) ir segmentinė (dalis glomerulo).",
         "answer": "A",
-        "explanation": "Fokusinė segmentinė glomerulosklerozė pažeidžia tik kai kuriuos glomerulius. Sklerozė yra ir fokusinė (kai kurie glomerulai) ir segmentinė (dalis kampo). Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
+        "explanation": "Židininė segmentinė glomerulosklerozė pažeidžia tik kai kuriuos glomerulus ir jų dalį. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
       "image": "question_images/question_89.jpeg"
     },
@@ -2507,7 +2507,7 @@
         "assertion": "FSGS gali būti pirminė arba antrinė dėl kitų būklių",
         "reason": "Antrinė FSGS įvyksta dėl adaptyvinių pokyčių iš sumažėjusios nefronų masės ar kitų stresorių",
         "answer": "A",
-        "explanation": "FSGS gali būti pirminė arba antrinė dėl kitų būklių. Antrinė FSGS įvyksta dėl adaptyvinių pokyčių iš sumažėjusios nefronų masės ar kitų stresorių. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
+        "explanation": "FSGS gali būti pirminė arba antrinė dėl kitų būklių. Antrinė FSGS įvyksta dėl adaptyvinių pokyčių esant absoliučiam arba santykiniam nefronų masės nepakankamumui. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
       "image": "question_images/question_93.png"
     },
@@ -2874,10 +2874,10 @@
         "explanation": "ANCA-associated GN shows pauci-immune crescentic glomerulonephritis. Neutrophil-mediated injury occurs without significant immune complex deposition. Therefore, both the assertion and reason are true, and the reason correctly explains the assertion."
       },
       "lt": {
-        "assertion": "ANCA susijęs GN rodo pauci-imuninį pusmėnulinį glomerulonefritą",
-        "reason": "Neutrofilų tarpininkaujamas pažeidimas įvyksta be reikšmingo imunokompleksinio nusėdimo",
+        "assertion": "ANCA pažeidimui būdingas mažai-imuninis pusmėnulinis glomerulonefritas",
+        "reason": "Aktyvuoti neutrofilai pažeidžia be reikšmingo imunokompleksinio formavimosi",
         "answer": "A",
-        "explanation": "ANCA susijęs GN rodo pauci-imuninį pusmėnulinį glomerulonefritą. Neutrofilų tarpininkaujamas pažeidimas įvyksta be reikšmingo imunokompleksinio nusėdimo. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
+        "explanation": "Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
       "image": "question_images/question_112.jpg"
     },
@@ -2972,7 +2972,7 @@
         "explanation": "Alport syndrome shows absence of alpha-5 type IV collagen in GBM. COL4A5 gene mutations prevent normal collagen assembly in basement membranes. Therefore, both the assertion and reason are true, and the reason correctly explains the assertion."
       },
       "lt": {
-        "assertion": "Alport sindromas rodo alpha-5 tipo IV kolageno nebuvimą GBM",
+        "assertion": "Alport sindromui būdingas alpha-5 tipo IV kolageno deficitas GBM",
         "reason": "COL4A5 geno mutacijos neleidžia normalaus kolageno surinkimo bazinėse membranose",
         "answer": "A",
         "explanation": "Alport sindromas rodo alpha-5 tipo IV kolageno nebuvimą GBM. COL4A5 geno mutacijos neleidžia normalaus kolageno surinkimo bazinėse membranose. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
