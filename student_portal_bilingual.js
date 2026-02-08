@@ -9,7 +9,7 @@ let diseaseTranslations = {};
 // Load questions and settings
 async function loadQuestions() {
     try {
-        const response = await fetch('nephro_questions_enhanced.json');
+        const response = await fetch('nephro_questions_enhanced.json?v=' + Date.now());
         const data = await response.json();
 
         translations = data.interface_translations;
