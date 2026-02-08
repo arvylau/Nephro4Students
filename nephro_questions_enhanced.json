@@ -6,7 +6,7 @@
       "lt"
     ],
     "total_questions": 120,
-    "created": "2026-02-08T09:19:14.418Z",
+    "created": "2026-02-08T14:23:43.942Z",
     "version": "3.6-persistent-settings",
     "translation_method": "Google Translate with medical terminology preservation + manual editing"
   },
@@ -183,18 +183,18 @@
   "question_settings": {
     "1": {
       "active": true,
-      "priority": "none",
-      "modality": "None"
+      "priority": "high",
+      "modality": "Self"
     },
     "2": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Test2"
     },
     "3": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "4": {
       "active": true,
@@ -202,7 +202,7 @@
       "modality": "None"
     },
     "5": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -212,18 +212,18 @@
       "modality": "None"
     },
     "7": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "8": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "9": {
-      "active": false,
-      "priority": "none",
+      "active": true,
+      "priority": "high",
       "modality": "None"
     },
     "10": {
@@ -242,9 +242,9 @@
       "modality": "None"
     },
     "13": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
+      "active": true,
+      "priority": "low",
+      "modality": "Test2"
     },
     "14": {
       "active": true,
@@ -272,7 +272,7 @@
       "modality": "None"
     },
     "19": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -282,7 +282,7 @@
       "modality": "None"
     },
     "21": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -302,7 +302,7 @@
       "modality": "None"
     },
     "25": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -312,12 +312,12 @@
       "modality": "None"
     },
     "27": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "28": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -327,7 +327,7 @@
       "modality": "None"
     },
     "30": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -337,22 +337,22 @@
       "modality": "None"
     },
     "32": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "33": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "34": {
       "active": true,
       "priority": "none",
-      "modality": "None"
+      "modality": "Self"
     },
     "35": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -362,7 +362,7 @@
       "modality": "None"
     },
     "37": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -372,7 +372,7 @@
       "modality": "None"
     },
     "39": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -382,12 +382,12 @@
       "modality": "None"
     },
     "41": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "42": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -397,17 +397,17 @@
       "modality": "None"
     },
     "44": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "45": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "46": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -417,17 +417,17 @@
       "modality": "None"
     },
     "48": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "49": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "50": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -437,7 +437,7 @@
       "modality": "None"
     },
     "52": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -447,92 +447,92 @@
       "modality": "None"
     },
     "54": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "55": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "56": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "57": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "58": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "59": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "60": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "61": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "62": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "63": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "64": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "65": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "66": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "67": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "68": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "69": {
-      "active": false,
-      "priority": "none",
+      "active": true,
+      "priority": "high",
       "modality": "None"
     },
     "70": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "71": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -542,12 +542,12 @@
       "modality": "None"
     },
     "73": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "74": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -562,7 +562,7 @@
       "modality": "None"
     },
     "77": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -572,7 +572,7 @@
       "modality": "None"
     },
     "79": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -592,7 +592,7 @@
       "modality": "None"
     },
     "83": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -602,27 +602,27 @@
       "modality": "None"
     },
     "85": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "86": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "87": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "88": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "89": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -632,12 +632,12 @@
       "modality": "None"
     },
     "91": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "92": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -647,17 +647,17 @@
       "modality": "None"
     },
     "94": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "95": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "96": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -672,17 +672,17 @@
       "modality": "None"
     },
     "99": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "100": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "101": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -692,72 +692,72 @@
       "modality": "None"
     },
     "103": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "104": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "105": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "106": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "107": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "108": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "109": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "110": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "111": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "112": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "113": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "114": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "115": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "116": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
@@ -767,17 +767,17 @@
       "modality": "None"
     },
     "118": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "119": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     },
     "120": {
-      "active": false,
+      "active": true,
       "priority": "none",
       "modality": "None"
     }
@@ -836,7 +836,8 @@
         "reason": "Pirminis FSGS rodo difuzinį pėdos proceso išbėrimą, panašų į minimalių pokyčių ligą, o antrinis FSGS paprastai rodo tik židininį pėdos proceso išbėrimą, esantį virš sklerozės sričių.",
         "answer": "A",
         "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję.Pėdos proceso išnykimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis išblukimas (visi podocitai) rodo pirminį cirkuliuojančio faktoriaus sukeltą sužalojimą, o židinio išblukimas (tik skleroziniuose segmentuose) rodo adaptyvų / mechaninį antrinio FSGS pažeidimą."
-      }
+      },
+      "image": "question_images/question_3.png"
     },
     {
       "id": 4,
@@ -1395,7 +1396,8 @@
         "reason": "Mezangialinės IgA nuosėdos sergant IgA nefropatija atsiranda dėl galaktozės stokojančių IgA1 imuninių kompleksų nusėdimo.",
         "answer": "A",
         "explanation": "Ir tiesa, ir susijusi.Mezangialus IgA dominavimas IF yra patognominis IgA nefropatijai.Patofiziologija apima nenormalų IgA1 O-glikozilinimą, dėl kurio susidaro galaktozės trūkumas IgA1, kuris sudaro imuninius kompleksus ir nuosėdas mezangiume."
-      }
+      },
+      "image": "question_images/question_34.png"
     },
     {
       "id": 35,
@@ -2427,7 +2429,7 @@
         "answer": "A",
         "explanation": "Fokusinė segmentinė glomerulosklerozė pažeidžia tik kai kuriuos glomerulius. Sklerozė yra ir fokusinė (kai kurie glomerulai) ir segmentinė (dalis kampo). Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
-      "image": null
+      "image": "question_images/question_89.jpeg"
     },
     {
       "id": 90,
