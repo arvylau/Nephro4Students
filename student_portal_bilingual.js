@@ -30,7 +30,7 @@ async function loadQuestions() {
 
         // Filter to only active questions with modality "Self"
         activeQuestions = allQuestions.filter(q => {
-            const setting = questionSettings[q.id];
+            const setting = questionSettings[String(q.id)];
             const isActive = !setting || setting.active !== false;
             const isSelf = setting && setting.modality === 'Self';
             return isActive && isSelf;
@@ -38,8 +38,8 @@ async function loadQuestions() {
 
         // Sort by priority (high priority first)
         activeQuestions.sort((a, b) => {
-            const settingA = questionSettings[a.id];
-            const settingB = questionSettings[b.id];
+            const settingA = questionSettings[String(a.id)];
+            const settingB = questionSettings[String(b.id)];
             const priorityA = settingA?.priority || 'none';
             const priorityB = settingB?.priority || 'none';
 
