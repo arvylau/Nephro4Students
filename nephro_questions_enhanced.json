@@ -2439,5 +2439,607 @@
         "explanation": "Amiloido nuosėdai yra kongo-filiniai ir rodo fibrilinę struktūrą elektroninėje mikroskopijoje. Amiloidą sudaro beta-plisetuotų lakštų baltymų agregatai išdėstyti nesišakojančiose fibrilose. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       }
     }
-  ]
+  ],
+  "question_settings": {
+    "1": {
+      "active": true,
+      "priority": "high",
+      "modality": "Self"
+    },
+    "2": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "3": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "4": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "5": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "6": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "7": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "8": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "9": {
+      "active": false,
+      "priority": "high",
+      "modality": "None"
+    },
+    "10": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "11": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "12": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "13": {
+      "active": false,
+      "priority": "low",
+      "modality": "Test2"
+    },
+    "14": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "15": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "16": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "17": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "18": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "19": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "20": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "21": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "22": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "23": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "24": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "25": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "26": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "27": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "28": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "29": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "30": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "31": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "32": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "33": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "34": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "35": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "36": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "37": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "38": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "39": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "40": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "41": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "42": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "43": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "44": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "45": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "46": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "47": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "48": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "49": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "50": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "51": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "52": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "53": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "54": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "55": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "56": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "57": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "58": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "59": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "60": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "61": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "62": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "63": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "64": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "65": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "66": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "67": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "68": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "69": {
+      "active": false,
+      "priority": "high",
+      "modality": "None"
+    },
+    "70": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "71": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "72": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "73": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "74": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "75": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "76": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "77": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "78": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "79": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "80": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "81": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "82": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "83": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "84": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "85": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "86": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "87": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "88": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "89": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "90": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "91": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "92": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "93": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "94": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "95": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "96": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "97": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "98": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "99": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "100": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "101": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "102": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "103": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "104": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "105": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "106": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "107": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "108": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "109": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "110": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "111": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "112": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "113": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "114": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "115": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "116": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "117": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "118": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "119": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "120": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    }
+  }
 }
