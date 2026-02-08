@@ -16,17 +16,9 @@ async function loadQuestions() {
         diseaseTranslations = data.disease_translations;
         allQuestions = data.questions;
 
-        // Load settings: JSON first, then merge localStorage on top
+        // Load settings from JSON file only (instructor controls via JSON export)
+        // localStorage is ignored on student portal to prevent conflicts
         let questionSettings = data.question_settings || {};
-
-        // Merge localStorage settings (if available) - localStorage takes priority
-        const localSettings = localStorage.getItem('questionSettings');
-        if (localSettings) {
-            const parsed = JSON.parse(localSettings);
-            Object.keys(parsed).forEach(qId => {
-                questionSettings[qId] = { ...questionSettings[qId], ...parsed[qId] };
-            });
-        }
 
         // Filter to only active questions with modality "Self"
         activeQuestions = allQuestions.filter(q => {
