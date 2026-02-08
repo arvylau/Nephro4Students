@@ -65,6 +65,13 @@ async function loadQuestions() {
         });
 
         if (activeQuestions.length === 0) {
+            // More detailed debug
+            const q1 = allQuestions[0];
+            const settingKeys = Object.keys(questionSettings).slice(0, 3).join(',');
+            const s1 = questionSettings[String(q1?.id)];
+            const s1direct = questionSettings['1'];
+            const debugInfo = q1 ? `Q${q1.id}(type:${typeof q1.id}) keys:[${settingKeys}] s1:${JSON.stringify(s1)} s1direct:${JSON.stringify(s1direct)}` : 'No questions';
+
             document.getElementById('questions-container').innerHTML =
                 '<div style="background:white;padding:50px;border-radius:15px;text-align:center;color:#666;">' +
                 '<p style="font-size:20px;">No self-study questions available.</p>' +
@@ -72,6 +79,7 @@ async function loadQuestions() {
                 '<p style="margin-top:20px;font-size:12px;color:#999;">Debug: Total=' + allQuestions.length +
                 ', Settings=' + Object.keys(questionSettings).length +
                 ', Active+Self=' + activeQuestions.length + '</p>' +
+                '<p style="font-size:11px;color:#999;">' + debugInfo + '</p>' +
                 '</div>';
             return;
         }
