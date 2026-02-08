@@ -16,12 +16,16 @@ async function loadQuestions() {
         diseaseTranslations = data.disease_translations;
         allQuestions = data.questions;
 
-        // Load instructor settings
-        const settings = localStorage.getItem('questionSettings');
-        let questionSettings = {};
+        // Load settings: JSON first, then merge localStorage on top
+        let questionSettings = data.question_settings || {};
 
-        if (settings) {
-            questionSettings = JSON.parse(settings);
+        // Merge localStorage settings (if available) - localStorage takes priority
+        const localSettings = localStorage.getItem('questionSettings');
+        if (localSettings) {
+            const parsed = JSON.parse(localSettings);
+            Object.keys(parsed).forEach(qId => {
+                questionSettings[qId] = { ...questionSettings[qId], ...parsed[qId] };
+            });
         }
 
         // Filter to only active questions with modality "Self"
