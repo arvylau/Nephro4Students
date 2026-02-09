@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "title": "Nephropathology Assessment - Enhanced with Updated Images",
+    "title": "Nephropathology Assessment - Bilingual (EN/LT)",
     "languages": [
       "en",
       "lt"
     ],
     "total_questions": 120,
-    "updated": "2026-02-08T17:47:24.443Z",
-    "version": "4.2-migrated",
-    "questions_with_images": 45,
-    "auto_save": true
+    "created": "2026-02-09T05:34:15.048Z",
+    "version": "3.6-persistent-settings",
+    "translation_method": "Google Translate with medical terminology preservation + manual editing"
   },
   "interface_translations": {
     "en": {
@@ -181,6 +180,608 @@
       "lt": "Inkstų amiloidozė"
     }
   },
+  "question_settings": {
+    "1": {
+      "active": true,
+      "priority": "high",
+      "modality": "Self"
+    },
+    "2": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "3": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "4": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "5": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "6": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "7": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "8": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "9": {
+      "active": false,
+      "priority": "high",
+      "modality": "None"
+    },
+    "10": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "11": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "12": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "13": {
+      "active": false,
+      "priority": "low",
+      "modality": "Test2"
+    },
+    "14": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "15": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "16": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "17": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "18": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "19": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "20": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "21": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "22": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "23": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "24": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "25": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "26": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "27": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "28": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "29": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "30": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "31": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "32": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "33": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "34": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "35": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "36": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "37": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "38": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "39": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "40": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "41": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "42": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "43": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "44": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "45": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "46": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "47": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "48": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "49": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "50": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "51": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "52": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "53": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "54": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "55": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "56": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "57": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "58": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "59": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "60": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "61": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "62": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "63": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "64": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "65": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "66": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "67": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "68": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "69": {
+      "active": false,
+      "priority": "high",
+      "modality": "None"
+    },
+    "70": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "71": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "72": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "73": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "74": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "75": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "76": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "77": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "78": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "79": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "80": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "81": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "82": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "83": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "84": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "85": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "86": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "87": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "88": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "89": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "90": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "91": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "92": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "93": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "94": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "95": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "96": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "97": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "98": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "99": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "100": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "101": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "102": {
+      "active": true,
+      "priority": "none",
+      "modality": "None"
+    },
+    "103": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "104": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "105": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "106": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "107": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "108": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "109": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "110": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "111": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "112": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "113": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "114": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "115": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "116": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "117": {
+      "active": true,
+      "priority": "none",
+      "modality": "Self"
+    },
+    "118": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "119": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    },
+    "120": {
+      "active": false,
+      "priority": "none",
+      "modality": "None"
+    }
+  },
   "questions": [
     {
       "id": 1,
@@ -213,10 +814,10 @@
         "explanation": "Both statements are true and the reason explains the assertion. The degree of proteinuria helps distinguish primary (nephrotic-range, >3.5g/day) from secondary (sub-nephrotic) FSGS because of different underlying mechanisms - circulating permeability factors in primary vs adaptive hyperfiltration in secondary."
       },
       "lt": {
-        "assertion": "Pacientas, sergantis židinine segmentine glomeruloskleroze (FSGS), kuriam pasireiškė subnefrozinė proteinurija (<3,5 g per dieną), greičiausiai turi antrinę FSGS, o ne pirminę FSGS.",
-        "reason": "Antrinė FSGS paprastai atsiranda dėl adaptyvios hiperfiltracijos sumažėjus nefrono masei ir dažniausiai pasireiškia subnefrozine proteinurija, o pirminė FSGS dažniausiai pasireiškia visišku nefroziniu sindromu.",
+        "assertion": "Pacientas, sergantis židinine segmentine glomeruloskleroze (FSGS), kuriam prieš metus pasireiškė subnefrozinė proteinurija (<3,5 g per dieną), greičiausiai serga antrine FSGS, o ne pirmine FSGS.",
+        "reason": "Antrinė FSGS paprastai atsiranda dėl adaptyvios hiperfiltracijos glomeruluose sumažėjus funkcionuojančių nefronu masei ir dažniausiai pasireiškia subnefrozine proteinurija, o pirminė FSGS dažniausiai pasireiškia pilnu nefroziniu sindromu.",
         "answer": "A",
-        "explanation": "Abu teiginiai yra teisingi, o priežastis paaiškina teiginį.Proteinurijos laipsnis padeda atskirti pirminę (nefrozinio diapazono, > 3,5 g per dieną) nuo antrinio (subnefrozinio) FSGS dėl skirtingų pagrindinių mechanizmų – cirkuliuojančių pralaidumo faktorių pirminėje ir adaptyvioje hiperfiltracijoje antrinėje."
+        "explanation": "Abu teiginiai yra teisingi, o priežastis paaiškina teiginį. Proteinurijos laipsnis padeda atskirti pirminę (nefrozinio diapazono, > 3,5 g per dieną) nuo antrinio (subnefrozinio) FSGS dėl skirtingų pagrindinių mechanizmų – cirkuliuojančių pralaidumo faktorių pirminėje ir adaptyvioje hiperfiltracijoje antrinėje."
       },
       "image": "question_images/question_2.png"
     },
@@ -232,10 +833,10 @@
         "explanation": "Both statements are true and causally related. The extent of foot process effacement on EM is a key distinguishing feature: diffuse effacement (all podocytes) suggests primary circulating factor-mediated injury, while focal effacement (only over sclerotic segments) suggests adaptive/mechanical injury in secondary FSGS."
       },
       "lt": {
-        "assertion": "Elektroninė mikroskopija, rodanti difuzinį pėdos proceso išnykimą pacientui, turinčiam FSGS, rodo pirminį, o ne antrinį FSGS.",
-        "reason": "Pirminis FSGS rodo difuzinį pėdos proceso išbėrimą, panašų į minimalių pokyčių ligą, o antrinis FSGS paprastai rodo tik židininį pėdos proceso išbėrimą, esantį virš sklerozės sričių.",
+        "assertion": "Elektroninė mikroskopija, rodanti difuzinį podocitų kojyčių susiliejimą, esant FSGS, rodo pirminį, o ne antrinį FSGS.",
+        "reason": "Pirminei FSGS būdingas difuzinis podocitų kojyčių susiliejimas, panašus į minimalių pokyčių ligą, o antrinei FSGS - tik židininis podocitų kojyčių susiliejimas.",
         "answer": "A",
-        "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję.Pėdos proceso išnykimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis išblukimas (visi podocitai) rodo pirminį cirkuliuojančio faktoriaus sukeltą sužalojimą, o židinio išblukimas (tik skleroziniuose segmentuose) rodo adaptyvų / mechaninį antrinio FSGS pažeidimą."
+        "explanation": "Abu teiginiai yra teisingi ir priežastiniu ryšiu susiję. Podocitų kojyčių susiliejimo mastas EM yra pagrindinis skiriamasis bruožas: difuzinis podocitų kojyčių susiliejimas rodo pirminį podocitų pažeidimą, o židininis rodo adaptyvų / kompensacinį mechanizmą."
       },
       "image": "question_images/question_3.png"
     },
@@ -2439,607 +3040,5 @@
         "explanation": "Amiloido nuosėdai yra kongo-filiniai ir rodo fibrilinę struktūrą elektroninėje mikroskopijoje. Amiloidą sudaro beta-plisetuotų lakštų baltymų agregatai išdėstyti nesišakojančiose fibrilose. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       }
     }
-  ],
-  "question_settings": {
-    "1": {
-      "active": true,
-      "priority": "high",
-      "modality": "Self"
-    },
-    "2": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "3": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "4": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "5": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "6": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "7": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "8": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "9": {
-      "active": false,
-      "priority": "high",
-      "modality": "None"
-    },
-    "10": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "11": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "12": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "13": {
-      "active": false,
-      "priority": "low",
-      "modality": "Test2"
-    },
-    "14": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "15": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "16": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "17": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "18": {
-      "active": true,
-      "priority": "none",
-      "modality": "None"
-    },
-    "19": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "20": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "21": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "22": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "23": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "24": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "25": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "26": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "27": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "28": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "29": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "30": {
-      "active": true,
-      "priority": "none",
-      "modality": "None"
-    },
-    "31": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "32": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "33": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "34": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "35": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "36": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "37": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "38": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "39": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "40": {
-      "active": true,
-      "priority": "none",
-      "modality": "None"
-    },
-    "41": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "42": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "43": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "44": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "45": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "46": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "47": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "48": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "49": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "50": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "51": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "52": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "53": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "54": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "55": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "56": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "57": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "58": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "59": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "60": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "61": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "62": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "63": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "64": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "65": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "66": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "67": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "68": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "69": {
-      "active": false,
-      "priority": "high",
-      "modality": "None"
-    },
-    "70": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "71": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "72": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "73": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "74": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "75": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "76": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "77": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "78": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "79": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "80": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "81": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "82": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "83": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "84": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "85": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "86": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "87": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "88": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "89": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "90": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "91": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "92": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "93": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "94": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "95": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "96": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "97": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "98": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "99": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "100": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "101": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "102": {
-      "active": true,
-      "priority": "none",
-      "modality": "None"
-    },
-    "103": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "104": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "105": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "106": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "107": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "108": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "109": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "110": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "111": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "112": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "113": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "114": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "115": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "116": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "117": {
-      "active": true,
-      "priority": "none",
-      "modality": "Self"
-    },
-    "118": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "119": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    },
-    "120": {
-      "active": false,
-      "priority": "none",
-      "modality": "None"
-    }
-  }
+  ]
 }
