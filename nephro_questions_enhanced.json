@@ -6,7 +6,7 @@
       "lt"
     ],
     "total_questions": 120,
-    "updated": "2026-02-09T06:23:14.406Z",
+    "updated": "2026-02-09T16:32:11.248Z",
     "version": "4.2-migrated",
     "questions_with_images": 47,
     "auto_save": true
@@ -1674,7 +1674,7 @@
         "answer": "A",
         "explanation": "Imunofluorescencija membraninėje nefropatijoje rodo granulinius IgG nuosėdus. IgG antikūnai jungiasi prie podocitų antigenų sukurdami in-situ imuninius kompleksus. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
-      "image": "question_images/question_81.jpeg"
+      "image": "question_images/question_81.jpg"
     },
     {
       "id": 82,
@@ -1694,7 +1694,7 @@
         "answer": "A",
         "explanation": "PLA2R antikūnai randami 70-80% pirminės membraninės nefropatijos. Fosfolipazės A2 receptorius yra pagrindinis podocitų antigenas idiopatinėje MGN. Todėl tiek teiginys, tiek priežastis yra teisingi, ir priežastis teisingai paaiškina teiginį."
       },
-      "image": "question_images/question_82.jpeg"
+      "image": "question_images/question_82.jpg"
     },
     {
       "id": 83,
